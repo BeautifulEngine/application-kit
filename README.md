@@ -4,6 +4,10 @@ Turn a job posting and a resume into everything needed to apply well: a resume a
 
 **What you get:** Builds a tailored job application from a job posting and a resume - a rewritten resume and cover letter as Word files and PDFs that applicant tracking systems can read, plus a prep sheet PDF with a requirement-by-requirement fit check, keyword coverage, which portfolio pieces to lead with, outreach notes to the recruiter and hiring manager, interview stories, questions to ask and a follow-up schedule. Never invents experience.
 
+![Pages from a sample Application Kit: fit check and keywords, outreach, stories and follow-ups](docs/preview.png)
+
+**See the full sample:** [Sample-Northwind-Application-Prep.pdf](examples/Sample-Northwind-Application-Prep.pdf) (fictional names and figures)
+
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/application-kit/issues/new)
 
 ## Install
@@ -36,6 +40,8 @@ mkdir -p ~/.claude/skills && cp -r application-kit/application-kit ~/.claude/ski
 Then use `/application-kit`.
 
 ## Usage
+
+![Animated demo: example requests typed into Claude, each followed by what the Application Kit skill makes](docs/how-to-ask.gif)
 
 ```
 /application-kit <job posting URL or pasted text> [company brief attached] [portfolio link]
