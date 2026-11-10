@@ -6,7 +6,7 @@ Turn a job posting and a resume into everything needed to apply well: a resume a
 
 ![Pages from a sample Application Kit: fit check, keywords and portfolio, outreach, stories and hiring steps](docs/preview.png)
 
-**See the full sample:** [Sample-Remote-Senior-Brand-Designer-Application-Prep.pdf](examples/Sample-Remote-Senior-Brand-Designer-Application-Prep.pdf) (a real job posting from Remote with a fictional applicant)
+**See the full sample:** [Sample-Remote-Senior-Brand-Designer-Application-Prep.pdf](examples/Sample-Remote-Senior-Brand-Designer-Application-Prep.pdf) (a real job posting from Remote with a fictional applicant, in Remote's colors)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/application-kit/issues/new)
 
